@@ -7,8 +7,8 @@
 ## Clone this project
 
 ```bash
-> git clone https://github.com/affisjunianto/botwasapv4
-```
+> git clone https://github.com/BillaChan/botwasapv6
+``
 
 ## Install the dependencies:
 Before running the below command, make sure you're in the project directory that
